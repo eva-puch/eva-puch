@@ -10,7 +10,7 @@ I am currently finishing my MSc. in **Data Science** with a specialization in **
     - Erasmus exchange : One semester at Uppsala University (Sweden).
 - ⛰️ Outdoor activities that are part of my everyday life : Running, Cycling, Backpacking, Cross-country skiing.
 - 📫 Contact :  [eva.puchalski@gmail.com](mailto:eva.puchalski@gmail.com)
-
+- 😄 Pronous : she/her.
 
 
 
