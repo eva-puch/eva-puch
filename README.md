@@ -16,6 +16,7 @@ I am currently finishing my MSc. in **Data Science** with a specialization in **
 - 📫 Contact:  [eva.puchalski@gmail.com](mailto:eva.puchalski@gmail.com)
 - 😄 Pronous: she/her.
 
+### 🚀 Projects
 
 
 <!--
