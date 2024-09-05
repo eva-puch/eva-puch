@@ -2,7 +2,7 @@
 I am currently finishing my MSc. in **Data Science** with a specialization in **Biostatistics**, and I am seeking my first job opportunity in the field of **healthcare** or **sport**, which are areas that truly fascinate me !
 
 ### 👩 About me
-- 📚 Current internship: **Indirect comparison methods** for using external data, whether individual or aggregated, in clinical trials.  
+- 📚 Currently working on: **Indirect comparison methods** for using external data, whether individual or aggregated, in clinical trials.  
 - 🎓 Education: MSc. in Data Science at the *National School of Statistics and Analysis of Information* (*ENSAI*).
 - 🛠 Main skills:
     - **Statistical analysis and modelling**: Linear regression, GLM, Mixed effect models, Time series, Factor analysis methods, Data visualization;
